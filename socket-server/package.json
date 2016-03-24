@@ -1,0 +1,23 @@
+{
+  "name": "horny-unicorn-socket-server",
+  "version": "1.0.0",
+  "description": "Streaming socket server for video/eeg input and distributed output",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "eeg",
+    "streams",
+    "neurosky",
+    "unicorns"
+  ],
+  "author": "Jay Won",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "socket.io": "^1.3.7",
+    "ws": "^0.8.1"
+  }
+}
